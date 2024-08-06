@@ -3,3 +3,8 @@ contains data for cars like ferrari, bugatti
 ---
 this is an edit to this file 
 file also has data for lamborghini, benz
+----
+now this is to test amend option
+
+now this line is actual test amend and new commit
+
